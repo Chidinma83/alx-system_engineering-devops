@@ -1,0 +1,5 @@
+o "hello $USER"
+
+Footer#!/bin/bash
+
+echo "hello $USER"
