@@ -1,0 +1,6 @@
+TH=$PATH:/action
+
+Footer
+:ls
+clear
+
