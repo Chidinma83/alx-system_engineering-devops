@@ -1,6 +1,2 @@
-TH=$PATH:/action
-
-Footer
-:ls
-clear
-
+#!/bin/bash
+PATH=$PATH:/action
